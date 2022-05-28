@@ -1,0 +1,7 @@
+1) a) terminais são os que não estão entre <> e os não terminais são os que estão entre <>
+b) lobo, gato, ovos e vaca
+
+2) a) terminais são os que não estão entre <> e os não terminais são os que estão entre <>
+b) I, III e V
+
+3) <expr> -> x <expr> y | xy

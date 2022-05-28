@@ -1,0 +1,21 @@
+Paradigmas(é classificado de acordo com as suas funcionalidades) - Aula 1
+  -> Imperativo - Orientada a ações
+  -> Orientada a Objeto - Problema é analisado quanto aos objetos que o compõem
+  -> Funcional - Computação vista como avaliação de funções matemáticas(resoluçao de problemas a partir
+de modelos de funções matemáticas)
+
+BNF - Aula 3/Lista 3
+  -> É a forma da linguagem saber o que é cada coisa
+
+Aula 7 inteira
+
+
+Conversão de tipo(ou coerção)
+  -> Mudança forçada de um tipo de variável
+     Ex: int i = 10;
+         double d = i;
+         sout(d);
+         100000000000000000000000
+
+
+Escopo
